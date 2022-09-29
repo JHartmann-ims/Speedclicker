@@ -1,0 +1,2 @@
+# Speedclicker
+Javascript Speedclicker
